@@ -1,0 +1,54 @@
+body {
+	margin:  0px;
+	font-family: "Roboto Slab", serif;
+}
+
+.jumbotron {
+	background-image: url("design-space-paper-textured-background.jpg");
+	background-size: cover;
+	height: 500px;
+}
+.btn-warning {
+	background-color: #ff9900;
+	border-radius: 10px;
+	box-shadow: 0px 2px 2px black !important;
+}
+
+.btn-warning:hover {
+	background-color: #ffaf37;
+}
+
+#wordpress {
+background-color: darkred;
+border-radius: 10px;
+box-shadow: 5px 5px 10px black;
+}
+
+#wordpress:hover {
+	background-color: lightpink;
+}
+
+#mdm {
+  background-color: green;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px black;
+}
+
+#mdm:hover {
+	background-color: limegreen;
+}
+
+#volunteer {
+background-color: blue;
+border-radius: 10px;
+box-shadow: 5px 5px 10px black;
+}
+
+#volunteer:hover {
+	background-color: skyblue;
+}
+
+.footer {
+	line-height: 50px;
+	margin-bottom: 0;
+}
